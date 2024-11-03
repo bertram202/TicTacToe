@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5976836873:AAFFf7zsE85-1b3N1_EN1upPCKOc38VrFKI')
+bot = telebot.TeleBot('5976836873:AAFxjqCqpLcXUslTB786Sgyxf5JmDnMkwTw')
 
 free_space = ["1", "2", "3",
               "4", "5", "6",
